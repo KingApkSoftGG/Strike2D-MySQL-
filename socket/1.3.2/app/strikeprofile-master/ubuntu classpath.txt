@@ -1,0 +1,1 @@
+export CLASSPATH=/usr/share/java/commons-dbcp2-2.5.0.jar:/usr/share/java/commons-logging-1.2.jar:/usr/share/java/commons-pool2-2.6.0.jar:/usr/share/java/mysql-connector-java-8.0.28.jar:.
